@@ -12,5 +12,5 @@ Creé una variable "varColor" y la asocié con un imput y mostré su contenido a
 ## Capturas de pantalla
 Captura de la aplicación funcionando.
 
-![Captura de pantalla](app/src/assets/images/Captura1.png)      
+![Captura de pantalla](/src/assets/Captura1.png)      
   
